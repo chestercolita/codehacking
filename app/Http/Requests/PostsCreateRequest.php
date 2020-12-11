@@ -30,7 +30,6 @@ class PostsCreateRequest extends Request
 //            'photo_id'    =>'required',
 //            'body'        =>'required'
 
-
         ];
     }
 }
